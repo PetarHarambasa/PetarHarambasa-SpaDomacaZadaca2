@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  game_of_life.cpp
+E:\1PETAR FAKS\1.GODINA\Semestar 2\Strukture podataka i algoritmi\Domaća Zadaća\Zadaća dva\Zadatak2\PetarHarambaša1RP2Zadaca2\SpaDomacaZadaca02\game_of_life.cpp(99,31): warning C4553: '==': result of expression not used; did you intend '='?
+E:\1PETAR FAKS\1.GODINA\Semestar 2\Strukture podataka i algoritmi\Domaća Zadaća\Zadaća dva\Zadatak2\PetarHarambaša1RP2Zadaca2\SpaDomacaZadaca02\game_of_life.cpp(348,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SpaDomacaZadaca02.vcxproj -> E:\1PETAR FAKS\1.GODINA\Semestar 2\Strukture podataka i algoritmi\Domaća Zadaća\Zadaća dva\Zadatak2\PetarHarambaša1RP2Zadaca2\x64\Debug\SpaDomacaZadaca02.exe

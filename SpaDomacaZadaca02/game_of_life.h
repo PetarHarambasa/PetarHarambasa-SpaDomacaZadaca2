@@ -8,8 +8,8 @@ class game_of_life
 private:
 	char ALIVE = '*';
 	char DEAD = '-';
-	static const unsigned int STUPACA = 108;
-	static const unsigned int REDAKA = 38;
+	static const unsigned int STUPACA = 40;
+	static const unsigned int REDAKA = 20;
 	bool _generacija[REDAKA][STUPACA];
 	bool _sljedeca_generacija[REDAKA][STUPACA];
 	bool slucajna_vrijednost();
